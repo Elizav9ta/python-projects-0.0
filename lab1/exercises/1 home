@@ -1,0 +1,15 @@
+1.What is a correct way to declare a Python variable?
+    >> x = 5
+
+2. True or False
+You can declare string variables with single or double quotes.
+x = "John"
+# is the same as
+x = 'John'
+   >> TRUE
+
+3. Variable names are not case-sensitive.
+a = 5
+# is the same as
+A = 5
+    >> False

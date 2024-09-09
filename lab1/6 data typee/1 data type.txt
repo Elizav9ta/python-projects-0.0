@@ -1,0 +1,8 @@
+str - text type
+int, float, complex - numeric type
+list, tuple, range - sequence type
+dict - mapping type
+set,frozenset - set type
+bool - boolean type
+bytes, bytearray, memoryview - binary type
+NonoType - None type 
