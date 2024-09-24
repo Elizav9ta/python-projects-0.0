@@ -1,0 +1,11 @@
+1.Whis one of theese is a dictionary?
+
+x = {'type' : 'fruit', 'name' : 'banana'}
+
+2.Dictionary items cannot be removed after the dictionary has been created.
+
+False
+
+3.A dictionary cannot have two keys with the same name.
+
+True
